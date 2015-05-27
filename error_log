@@ -1,3 +1,0 @@
-[07-May-2015 15:50:23 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/hrooofco/public_html/swanid/events.php on line 20
-[07-May-2015 15:52:34 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/hrooofco/public_html/swanid/events.php on line 20
-[07-May-2015 17:35:51 America/Denver] PHP Notice:  Undefined offset: 2 in /home5/hrooofco/public_html/swanid/insert_applicant_event.php on line 14
