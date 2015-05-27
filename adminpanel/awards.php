@@ -59,8 +59,8 @@ require 'header.php';
                 <th class='text-right'>العنوان</th>
                 <th class='text-right'>المحتوى</th>
                 <th class='text-right'>الايفنت</th>
-                <th class='text-right'>حذف</th>
-                <th class='text-right'>تعديل</th>
+                <th class='text-right'>حذفا</th>
+                <th class='text-right'>عدل</th>
 
               </tr>
             </thead>
@@ -85,8 +85,8 @@ require 'header.php';
                 <td class='text-right'>$title</td>
                 <td class='text-right'>$description</td>
                 <td class='text-right'>$event_name</td>
-                <td><a href='delete_award.php?id=$id' type='button' class='btn btn-danger'>حذف</a></td>
-                <td><a href='edit_award.php?id=$id' type='button' class='btn btn-warning'>تعديل</a></td>
+                <td><a href='delete_award.php?id=$id' type='button' class='btn btn-danger'>حذفا</a></td>
+                <td><a href='edit_award.php?id=$id' type='button' class='btn btn-warning'>عدل</a></td>
 
                 </tr>";
                 $i++;

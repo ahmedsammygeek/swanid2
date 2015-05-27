@@ -67,8 +67,8 @@ require 'header.php';
                 <th class='text-right'>الموبايل</th>
                 <th class='text-right'>الايميل</th>
                 <th class='text-right'>نوع الدعم</th>
-                <th class='text-right'>حذف</th>
-                <th class='text-right'>تعديل</th>
+             <th class='text-right'>حذفا</th>
+                <th class='text-right'>عدل</th>
 
               </tr>
             </thead>
@@ -114,8 +114,8 @@ require 'header.php';
                 <td class='text-right'>$email</td>
                 <td class='text-right'>$type</td>
 
-                <td><a href='delete_sponser.php?id=$id' type='button' class='btn btn-danger'>حذف</a></td>
-                <td><a href='edit_sponser.php?id=$id' type='button' class='btn btn-warning'>تعديل</a></td>
+                <td><a href='delete_sponser.php?id=$id' type='button' class='btn btn-danger'>حذفا</a></td>
+                <td><a href='edit_sponser.php?id=$id' type='button' class='btn btn-warning'>عدل</a></td>
 
                 </tr>";
                 $i++;

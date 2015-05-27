@@ -28,13 +28,13 @@ require 'header.php';
                             <br>
 
                             <li>
-                                <a target="_blank" href="index.php"><i class="fa fa-dashboard fa-fw"></i> اللوحة الرئيسية </a>
+                                <a target="_blank" href="index.php"> اللوحة الرئيسية </a>
                             </li>
-                            
-                            
+
+
 
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> الرعاة<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> الرعاة<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
                                         <a target="_blank" href="sponsers.php">الرعاة</a>
@@ -48,7 +48,7 @@ require 'header.php';
 
 
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> المناسبات<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> المناسبات<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
                                         <a target="_blank" href="events.php">المناسبات</a>
@@ -60,7 +60,7 @@ require 'header.php';
                                 <!-- /.nav-second-level -->
                             </li>
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> الوظائف<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> الوظائف<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
                                         <a target="_blank" href="jobs.php">الوظائف</a>
@@ -73,7 +73,7 @@ require 'header.php';
                             </li>
 
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> المشاركين<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> المشاركين<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
                                         <a target="_blank" href="participants.php">المشاركين</a>
@@ -85,10 +85,10 @@ require 'header.php';
                                 <!-- /.nav-second-level -->
                             </li>
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> الشهادات و الجوائز<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> الشهادات و الجوائز<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
-                                        <a target="_blank" href="awards.php">عرض الكل </a>
+                                        <a target="_blank" href="awards.php">مشاهدة الكل </a>
                                     </li>
                                     <li>
                                         <a target="_blank" href="add_award.php"> اضافة جديد </a>
@@ -101,7 +101,7 @@ require 'header.php';
 
 
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> المساقات<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> المساقات<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
                                         <a target="_blank" href="tracks.php">المساقات</a>
@@ -113,9 +113,9 @@ require 'header.php';
                                 <!-- /.nav-second-level -->
                             </li>
 
-                            
+
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Galleried<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> Galleried<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
                                         <a target="_blank" href="gallery.php"> show Galleries</a>
@@ -128,7 +128,7 @@ require 'header.php';
                             </li>
 
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> applicants<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> applicants<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
 
                                     <li>
@@ -139,10 +139,10 @@ require 'header.php';
                             </li>
 
                             <li>
-                                <a target="_blank" href="#"><i class="fa fa-bar-chart-o fa-fw"></i> مديري الموقع<span class="fa arrow"></span></a>
+                                <a target="_blank" href="#"> الادارة <span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level collapse">
                                     <li>
-                                        <a target="_blank" href="admins.php">عرض المديرين</a>
+                                        <a target="_blank" href="admins.php">مشاهدة المديرين</a>
                                     </li>
                                     <li>
                                         <a target="_blank" href="add_admin.php">اضف مدير جديد</a>

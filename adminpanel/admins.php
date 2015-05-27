@@ -52,7 +52,8 @@ require 'header.php';
                 <th class='text-right'>م</th>
                 <th class='text-right'>اسم الادمن</th>
                 <th class='text-right'>كلمة السر</th>
-                <th class='text-right'>حذف</th>
+                <th class='text-right'>حذفا</th>
+           
                
 
               </tr>
@@ -73,7 +74,7 @@ require 'header.php';
                 <td class='text-right'>$i</td>
                 <td class='text-right'>$user_name</td>
                 <th class='text-right'>**********</th>        
-                <td><a href='delete_admin.php?id=$id' type='button' class='btn btn-danger'>حذف</a></td>
+                <td><a href='delete_admin.php?id=$id' type='button' class='btn btn-danger'>حذفا</a></td>
                 </tr>";
                 $i++;
               }

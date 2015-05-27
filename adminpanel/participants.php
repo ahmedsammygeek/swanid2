@@ -65,8 +65,8 @@ require 'header.php';
                 <th class='text-right'>رقم الهاتف</th>
                 <th class='text-right'>المؤهل الدراسي</th>
                 <th class='text-right'>التاريخ</th>
-                <th class='text-right'>حذف</th>
-                <th class='text-right'>تعديل</th>
+               <th class='text-right'>حذفا</th>
+                <th class='text-right'>عدل</th>
 
               </tr>
             </thead>
@@ -110,8 +110,8 @@ require 'header.php';
                 <th class='text-right'>$mobile</th>
                 <th class='text-right'>$academic_qualification</th>
                 <td class='text-right'>$date</td>          
-                <td><a href='delete_participant.php?id=$id' type='button' class='btn btn-danger'>حذف</a></td>
-                <td><a href='edit_participant.php?id=$id' type='button' class='btn btn-warning'>تعديل</a></td>
+                <td><a href='delete_participant.php?id=$id' type='button' class='btn btn-danger'>حذفا</a></td>
+                <td><a href='edit_participant.php?id=$id' type='button' class='btn btn-warning'>عدل</a></td>
 
                 </tr>";
                 $i++;
