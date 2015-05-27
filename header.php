@@ -33,9 +33,8 @@
                 <!-- <a class="navbar-brand" href="index.php"><img src="images/logo.gif" alt="logo"></a> -->
             </div>
             <div class="collapse navbar-collapse">
-                <img src="images/logo-f.png" style="margin-top: 8px;margin-left: 70px" width="100px" height="60px" alt="">
-
-                <ul class="nav navbar-nav navbar-right">
+               
+                <ul  style="margin-left:205px" class="nav navbar-nav ">
                     <li><a href="events.php">الفعاليات</a></li>
                     <li><a href="gallerys.php">المعارض</a></li>
                     <li><a href="careers.php">توظيف</a></li>
@@ -44,7 +43,7 @@
                     <li><a href="certfication.php">الشهادات</a></li> 
                     <li><a href="calender.php">calendar </a></li> 
                     <li><a href="index.php">الرئيسية</a></li>
-                    <li><a href="en/index.php">english</a></li>
+             
                 </ul>
             </div>
         </div>
